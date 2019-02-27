@@ -1,0 +1,26 @@
+body {
+  font-family: "Roboto", sans-serif;
+  display: flex;
+  min-height: 100vh;
+  flex-direction: column;
+  margin: 0;
+}
+main {
+  flex: 1 0 auto;
+}
+nav a {
+  color: black !important;
+}
+footer {
+  color: black !important;
+}
+.info-img {
+  width: 75%;
+  height: auto;
+}
+.main-wrapper {
+  margin: 1em;
+}
+h2 {
+  text-align: center;
+}
